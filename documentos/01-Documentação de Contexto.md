@@ -1,27 +1,25 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nos últimos anos, o mercado de estética tem experimentado um crescimento expressivo, impulsionado por uma demanda crescente por procedimentos de beleza, como a aplicação de cílios e tratamentos voltados ao bem-estar e à aparência pessoal. As mulheres, em particular, têm demonstrado uma tendência crescente em buscar cuidados estéticos, refletindo uma mudança cultural e social em relação à autoimagem e ao empoderamento feminino. Segundo a Grand View Research, o mercado global de estética foi avaliado em USD 86,2 bilhões em 2020, com uma taxa de crescimento anual projetada de 9,8% até 2028, destacando a popularidade de procedimentos minimamente invasivos e a conscientização crescente sobre a importância da estética pessoal. Esses dados sublinham como o mercado de estética, especialmente no que se refere a procedimentos como a aplicação de cílios, continua a se expandir e diversificar, acompanhando as mudanças nos padrões de beleza e nas prioridades das mulheres na sociedade atual. Esse fenômeno não apenas reforça a relevância desses serviços no cotidiano, mas também impulsiona o desenvolvimento econômico do setor, refletindo um movimento mais amplo de valorização da autoimagem e bem-estar.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Apesar do crescimento do mercado de estética, um problema persistente é a falta de informações claras sobre a qualificação dos profissionais que realizam a aplicação de cílios. Muitas mulheres encontram dificuldade em identificar profissionais treinados e certificados, o que pode levar a resultados insatisfatórios ou até complicações de saúde.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A qualidade dos produtos utilizados é outra preocupação. Com a ampla oferta no mercado, discernir entre produtos seguros e aqueles de procedência duvidosa é um desafio. A falta de regulamentação rigorosa permite a circulação de itens que podem causar reações alérgicas e outros problemas.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Além disso, a saturação do mercado cria confusão para as consumidoras, que enfrentam dificuldade em escolher serviços confiáveis. A ausência de padronização nos procedimentos oferecidos resulta em experiências inconsistentes, comprometendo a segurança e a satisfação das clientes.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Desenvolver uma aplicação web responsiva e móvel para o Nandha Alves Studio, com o intuito de facilitar a escolha de serviços de aplicação de cílios e outros procedimentos estéticos, garantindo a segurança e a satisfação das consumidoras.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+## Objetivos Específicos:
+
+* Criar uma interface intuitiva e fácil de usar, adequada para dispositivos móveis e desktops.
+* Integrar funcionalidades específicas para o setor de estética, como avaliações de profissionais, detalhamento de procedimentos e recomendações personalizadas.
+* Melhorar a navegação e a busca por serviços estéticos, oferecendo opções filtradas por qualidade, preço e avaliações.
+* Realizar testes com clientes reais do Nandha Alves Studio para validar a eficácia da aplicação em atender às necessidades do negócio e das consumidoras.
+
 
 ## Justificativa
 
