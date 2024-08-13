@@ -1,23 +1,31 @@
-# TÍTULO DO PROJETO
+# Nandha Alves Studio
 
-`CURSO`
+![Logo1](https://github.com/user-attachments/assets/59d54251-bbf5-4aef-bf28-65ebb7ef3044)
 
-`DISCIPLINA`
 
-`SEMESTRE`
+`Análise e Desenvolvimento de Sistemas`
 
+`Eixo 5- Projeto: Desenvolvimento de um Sistema Sociotécnico Inovador- Turma 01 -2024`
+
+`5º Semestre`
+
+
+Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída - Turma 05 - 2024/1
+
+Quarto Semestre
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Roberta Gomes de Freitas
+* Lucas Marcelo dias Souza
+* Marlon César de Almeida dos Santos
+* Victor Kingma
+* Vinicio Muniz
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sandra Maria Silveira
 
 ## Instruções de utilização
 
