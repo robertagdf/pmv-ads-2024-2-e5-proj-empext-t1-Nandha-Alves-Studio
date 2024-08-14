@@ -23,12 +23,7 @@ Desenvolver uma aplicação web responsiva e móvel para o Nandha Alves Studio, 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A justificativa para o desenvolvimento de uma aplicação web responsiva e móvel para o Nandha Alves Studio baseia-se na crescente demanda por serviços estéticos de qualidade, impulsionada pelo crescimento do mercado global de estética. Com o uso predominante de dispositivos móveis, é essencial oferecer uma plataforma que facilite a escolha de procedimentos estéticos, como a aplicação de cílios, de forma segura e acessível. Essa solução tecnológica não só acompanha as tendências digitais, mas também fortalece a confiança das clientes, consolidando o Nandha Alves Studio como uma referência em segurança e qualidade no setor de estética.
 
 ## Relação com a Extensão Universitária
 
