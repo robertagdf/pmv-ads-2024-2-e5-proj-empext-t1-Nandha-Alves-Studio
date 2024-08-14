@@ -11,7 +11,7 @@ Além disso, a saturação do mercado cria confusão para as consumidoras, que e
 
 ## Objetivos
 
-Desenvolver uma aplicação web responsiva e móvel para o Nandha Alves Studio, com o intuito de facilitar a escolha de serviços de aplicação de cílios e outros procedimentos estéticos, garantindo a segurança e a satisfação das consumidoras.
+Desenvolver uma aplicação web responsiva  para o Nandha Alves Studio, com o intuito de facilitar a escolha de serviços de aplicação de cílios e outros procedimentos estéticos, garantindo a segurança e a satisfação das consumidoras.
 
 ## Objetivos Específicos:
 
@@ -23,7 +23,7 @@ Desenvolver uma aplicação web responsiva e móvel para o Nandha Alves Studio, 
 
 ## Justificativa
 
-A justificativa para o desenvolvimento de uma aplicação web responsiva e móvel para o Nandha Alves Studio baseia-se na crescente demanda por serviços estéticos de qualidade, impulsionada pelo crescimento do mercado global de estética. Com o uso predominante de dispositivos móveis, é essencial oferecer uma plataforma que facilite a escolha de procedimentos estéticos, como a aplicação de cílios, de forma segura e acessível. Essa solução tecnológica não só acompanha as tendências digitais, mas também fortalece a confiança das clientes, consolidando o Nandha Alves Studio como uma referência em segurança e qualidade no setor de estética.
+A justificativa para o desenvolvimento de uma aplicação web responsiva  para o Nandha Alves Studio baseia-se na crescente demanda por serviços estéticos de qualidade, impulsionada pelo crescimento do mercado global de estética. Com o uso predominante de dispositivos móveis, é essencial oferecer uma plataforma que facilite a escolha de procedimentos estéticos, como a aplicação de cílios, de forma segura e acessível. Essa solução tecnológica não só acompanha as tendências digitais, mas também fortalece a confiança das clientes, consolidando o Nandha Alves Studio como uma referência em segurança e qualidade no setor de estética.
 
 ## Relação com a Extensão Universitária
 
