@@ -1,6 +1,6 @@
 # Nandha Alves Studio
 
-![Logo1](https://github.com/user-attachments/assets/59d54251-bbf5-4aef-bf28-65ebb7ef3044)
+![Logoo1](https://github.com/user-attachments/assets/585a865a-2915-43e3-99e3-fcd838c0e771)
 
 
 `Análise e Desenvolvimento de Sistemas`
