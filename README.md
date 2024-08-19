@@ -17,11 +17,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Roberta Gomes de Freitas
-* Lucas Marcelo dias Souza
-* Marlon César de Almeida dos Santos
-* Victor Kingma
-* Vinicio Muniz
+| [<img src="https://github.com/robertagdf.png" width=115><br><sub>Roberta Gomes de Freitas</sub>](https://github.com/robertagdf) | [<img src="https://github.com/marllonca.png" width=115><br><sub>Marlon César de Almeida dos Santos</sub>](https://github.com/marllonca) | [<img src="https://github.com/VictorKingma.png" width=115><br><sub>Victor Kingma</sub>](https://github.com/VictorKingma) | [<img src="https://github.com/VinicioMorais.png" width=115><br><sub>Vinicio Muniz</sub>](https://github.com/VinicioMorais) | [<img src="https://github.com/lucasmarcelods.png" width=115><br><sub>Lucas Marcelo Dias Souza</sub>](https://github.com/lucasmarcelods) |
+| -- | -- | -- | -- | -- |
 
 ## Orientador
 
@@ -34,7 +31,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a>
 <li><a href="documentos/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="documentos/03-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="documentos/04-Testes de Software.md"> Testes de Software</a></li>
