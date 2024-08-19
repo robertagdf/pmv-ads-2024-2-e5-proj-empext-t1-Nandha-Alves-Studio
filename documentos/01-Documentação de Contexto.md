@@ -27,7 +27,11 @@ A justificativa para o desenvolvimento de uma aplicação web responsiva  para o
 
 ## Relação com a Extensão Universitária
 
-Relacionar a situação-problema da organização com o impacto social esperado com a implantação do sistema sociotécnico.
+A extensão universitária é essencial para integrar o conhecimento acadêmico às demandas da sociedade, promovendo um desenvolvimento completo que vai além das salas de aula. No contexto do mercado de estética, que tem crescido de forma expressiva, o desenvolvimento de uma aplicação web para o Nandha Alves Studio exemplifica como a teoria acadêmica pode ser aplicada de maneira prática e socialmente relevante.
+
+A universidade PUC não só oferece aos alunos um crescimento que abrange suas vidas pessoais, acadêmicas e profissionais, mas também os prepara para contribuir de forma significativa em diversos aspectos da sociedade.
+
+Este projeto, ao garantir a qualificação dos profissionais e a segurança dos produtos utilizados, não apenas eleva os padrões da indústria de estética, mas também fortalece a confiança e satisfação das consumidoras, promovendo o empoderamento feminino. Dessa forma, a criação deste aplicativo beneficia diretamente a comunidade, ao mesmo tempo em que capacita os alunos a enfrentarem os desafios de um mercado em constante evolução.
 
 ## Descrição do Parceiro
 
