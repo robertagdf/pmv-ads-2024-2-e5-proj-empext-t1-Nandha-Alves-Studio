@@ -35,4 +35,15 @@ Este projeto, ao garantir a qualificação dos profissionais e a segurança dos 
 
 ## Descrição do Parceiro
 
-Apresente uma descrição resumida sobre a organização onde o projeto será desenvolvido para que possa ser compreendido o cenário sistema sociotécnico.
+Nandha Alves Studio é um espaço dedicado à beleza e autoestima, fundado por Fernanda Alves, uma profissional de 27 anos com formação em Técnico de Enfermagem. Mãe de uma filha de 10 anos, Fernanda sempre sonhou em empreender e criar seu próprio negócio.
+
+Recentemente, ela concretizou esse sonho ao abrir o Nandha Alves Studio em sua casa, especializando-se como lash designer. Além disso, Fernanda está expandindo seus conhecimentos na área da beleza, iniciando cursos em Lash Lifting, Hydra Gloss Lips e Dermaplaning. A área da estética está em constante crescimento, e não só as mulheres, mas também os homens estão cada vez mais interessados em se cuidar. Para Fernanda, ser lash designer não é apenas um trabalho, mas uma missão de transformar olhares e elevar a autoestima de seus clientes.
+
+No entanto, o Nandha Alves Studio ainda é um negócio em crescimento, e a comunicação com os clientes ocorre principalmente por WhatsApp. Embora essa interação seja direta e pessoal, ela apresenta alguns desafios:
+
+Depende do tempo de Fernanda para responder prontamente às mensagens dos clientes, o que a distrai de outras atividades prioritárias.
+A gestão das solicitações de serviços e agendamentos poderia ser mais eficiente com uma plataforma automatizada, permitindo uma experiência mais fluida e organizada tanto para Fernanda quanto para os clientes.
+Fernanda tem o desejo de ver o Nandha Alves Studio crescer, permitindo que ela se dedique exclusivamente à sua paixão. A parceria no desenvolvimento e implementação de uma aplicação web representa um elo estratégico para o estúdio, possibilitando alcançar mais clientes e otimizar a gestão do negócio. Com a nova plataforma, o agendamento de serviços e a comunicação serão simplificados, proporcionando uma experiência mais eficiente e agradável para todos.
+
+Todo o processo de desenvolvimento da aplicação web é pensado no público-alvo do Nandha Alves Studio, que inclui tanto mulheres quanto homens de diferentes faixas etárias. Estudos mostram que o interesse por cuidados com a beleza começa a se intensificar a partir dos 15 anos e continua ao longo da vida. Com um público que abrange desde adolescentes até adultos, o Nandha Alves Studio se posiciona para atender a uma ampla variedade de clientes, garantindo que seus serviços sejam relevantes para todos que buscam melhorar sua aparência e autoestima.
+
